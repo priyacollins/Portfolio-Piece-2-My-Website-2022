@@ -5,8 +5,12 @@ title: "My Projects"
 #### In my Programming with Data course, taught by Dr. Brenton Wiernik, I have completed multiple labs and two projects (including this website) that showcase my learning in the coding language R. 
 
 You can find links to my GitHub repositories here:
-1. 
-2. 
+
+1. (https://github.com/priyacollins/progdata-class)
+
+2. (https://github.com/priyacollins/Portfolio-Piece-1-Pokemon-Analysis-2022)
+
+3. (https://github.com/priyacollins/Portfolio-Piece-2-My-Website-2022)
 
 
 #### During my time at the University of South Florida, I completed an Honours Thesis through the Judy Genshaft Honours College, with my Thesis Chair Dr. Holly Donahue Singh and my committee member Dr. Lindy Davidson. My thesis is titled "An Intersectional Analysis of Experiencing a Maternal Near Miss," and is based on my own cousin's experience with Maternal Near Miss and the continuing problem of Maternal Mortality in the United States.
