@@ -1,0 +1,8 @@
+name: "my-website"
+navbar:
+  title: "Welcome! I'm Priya"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "My Projects"
+      href: about.html
