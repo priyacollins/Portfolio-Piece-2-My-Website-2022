@@ -18,4 +18,4 @@ You can find links to my GitHub repositories here:
 You can find my thesis here:
 
 <a href=".\Thesis II Report Final Priya SC.pdf" alt="some text"  width="4200" height="4200" >An Intersectional Analysis of Experiencing a Maternal Near Miss</a>
-
+<!-- My lovely boyfriend figured out this code in html to help me embed a link to my Thesis. I initially tried a \insertpdf command which was unsuccessful. -->  
