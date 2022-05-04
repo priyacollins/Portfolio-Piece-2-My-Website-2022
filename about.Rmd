@@ -13,10 +13,5 @@ You can find links to my GitHub repositories here:
 
 You can find my thesis here:
 
-```{r setup, include = FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-knitr::opts_chunk$set(message = FALSE)
-knitr::opts_chunk$set(dev = 'pdf')
-```
-\includepdf[pages=1:25](Thesis II Report Final Priya SC.pdf)
+<a href=".\Thesis II Report Final Priya SC.pdf" alt="some text"  width="4200" height="4200" >An Intersectional Analysis of Experiencing a Maternal Near Miss</a>
 
